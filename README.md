@@ -1,20 +1,89 @@
-# 💫 About Me:
-¡Hola! Soy un apasionado programador de 28 años proveniente de Perú, con una insaciable sed de conocimiento y un ardiente deseo de marcar la diferencia en el mundo de la programación. Me considero un eterno aprendiz, siempre buscando nuevas oportunidades para crecer y sobresalir en mi campo.<br><br>Mi entusiasmo por la programación me impulsa a participar en una amplia gama de proyectos, donde puedo desafiarme a mí mismo y contribuir con ideas innovadoras. Estoy comprometido a ofrecer soluciones creativas y eficientes a los problemas, siempre manteniéndome actualizado con las últimas tendencias tecnológicas.<br><br>Mi amor por el código se combina con una mentalidad colaborativa y un espíritu emprendedor. Busco constantemente oportunidades para trabajar en equipo, aprender de mis colegas y aportar mis habilidades únicas para lograr objetivos comunes. Creo firmemente en la importancia de compartir conocimientos y experiencias para alcanzar resultados excepcionales.<br><br>Estoy emocionado por la posibilidad de formar parte de proyectos desafiantes que me permitan expandir mis habilidades y conocimientos. Si estás buscando a alguien dedicado, entusiasta y dispuesto a sumergirse de lleno en nuevas aventuras tecnológicas, ¡estaré encantado de ser parte de tu equipo!<br><br>¡Vamos a construir un futuro innovador juntos!
+<div align="center">
 
-## 🌐 Socials:
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@joshegatito) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@joshegatito220) 
+# José Galván
+### Full Stack Developer · Ingeniero de Sistemas · Perú 🇵🇪
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=joshegatito&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=joshegatito&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=joshegatito&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Portfolio](https://img.shields.io/badge/Portafolio-joshegatito.github.io/dev-6366f1?style=for-the-badge&logo=firefox&logoColor=white)](https://joshegatito.github.io/dev/)
+[![Email](https://img.shields.io/badge/Email-ayasupay@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayasupay@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B51_944_059_073-25d366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=51944059073)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=joshegatito&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=joshegatito&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Sobre mí
+
+Ingeniero de Sistemas con experiencia en desarrollo **Full Stack**, apasionado por construir soluciones reales que resuelven problemas concretos. Me especializo en aplicaciones web modernas, automatización con Google Apps Script y herramientas de escritorio en C#.
+
+- Trabajo con el stack completo: desde la interfaz hasta la base de datos
+- Experiencia con WebAssembly, criptografía aplicada y compilación C++ → WASM
+- Docente de tecnología: WordPress, Windows, redes y mantenimiento
+- Siempre aprendiendo — actualmente explorando React, Next.js y Astro
+
+---
+
+## 🚀 Proyectos destacados
+
+| Proyecto | Tecnologías | Demo |
+|----------|------------|------|
+| **Sistema de Votación Escolar** | Google Apps Script · Sheets · HTML/JS | [Ver proyecto](https://script.google.com/macros/s/AKfycbwF2F2TnQr9x2dy46Vgenh6HTG1AvjkZRhPz3WqL2BWLLJA5cEQtNsD4hO8Nj0mGRkkag/exec) |
+| **WinRAR Keygen** | WebAssembly · C++ · OpenSSL · Emscripten | [Ver proyecto](https://joshegatito.github.io/winrar/) |
+| **Downloader Cat** | C# · WinForms · yt-dlp · FFmpeg | — |
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Backend & Escritorio**
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+
+**Bases de datos**
+![MySQL](https://img.shields.io/badge/MySQL-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+
+**Herramientas**
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-121013?style=flat-square&logo=github&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=flat-square&logo=cisco&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=joshegatito&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=joshegatito&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=joshegatito&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+
+</div>
+
+---
+
+## 🌐 Redes
+
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=flat-square&logo=TikTok&logoColor=white)](https://www.tiktok.com/@joshegatito)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/@joshegatito220)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/jamesjyf)
+
+---
+
+<div align="center">
+
+[![Visitas](https://visitcount.itsvg.in/api?id=joshegatito&icon=5&color=6)](https://visitcount.itsvg.in)
+
+</div>
