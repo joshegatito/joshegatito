@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=José%20Galván&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20·%20Ingeniero%20de%20Sistemas&descAlignY=60&descSize=18&descColor=c7d2fe" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hola%2C+soy+José+Galván+%F0%9F%91%8B;Full+Stack+Developer+%7C+Perú+%F0%9F%87%B5%F0%9F%87%AA;Apasionado+por+construir+soluciones+reales;WebAssembly+%7C+Google+Apps+Script+%7C+C%23" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hola%2C+soy+José+Galván+👋;Full+Stack+Developer+%7C+Perú+🇵🇪;Apasionado+por+construir+soluciones+reales;WebAssembly+%7C+Google+Apps+Script+%7C+C%23" alt="Typing SVG" />
 
 <br/>
 
@@ -93,7 +93,7 @@ rol:         Full Stack Developer · Ingeniero de Sistemas
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=joshegatito&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=joshegatito&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4" alt="trofeos"/>
 
 </div>
 
