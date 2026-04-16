@@ -91,9 +91,6 @@ rol:         Full Stack Developer · Ingeniero de Sistemas
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshegatito&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="150"/>
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=joshegatito&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4" alt="trofeos"/>
 
 </div>
 
